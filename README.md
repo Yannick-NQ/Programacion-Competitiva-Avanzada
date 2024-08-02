@@ -13,11 +13,11 @@ En este apartado se desarrollaron los temas introductorios para el campo de Prog
 
 1.1. [Características de C++: entrada y salida](Intro_Programacion_Competitiva/Ch01_IOTypes/)
 
-    Se examinaron diferentes tipos de entradas y salidas que son usados comunmente en los concursos de Programación Competitiva.
+- Se examinaron diferentes tipos de entradas y salidas que son usados comunmente en los concursos de Programación Competitiva.
 
-1.2. [Aritmética Modular](Intro_Programacion_Competitiva/Ch02_ModularArithmetic/)
+  1.2. [Aritmética Modular](Intro_Programacion_Competitiva/Ch02_ModularArithmetic/)
 
-    Se examinaron la aritmetica y algebra modular.
+- Se examinaron la aritmetica y algebra modular.
 
 ## Segundo apartado<a name="id2"></a>
 
