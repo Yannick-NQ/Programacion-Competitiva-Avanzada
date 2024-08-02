@@ -21,14 +21,14 @@ Recopilación de Ejercicios Desarrollados en el Curso de Programación Competiti
 
 ## 1. Características de C++: entrada y salida<a name="session1"></a>
 
-En este apartado se desarrollaron los temas introductorios para el campo de Programación Competitiva. Se consideraron los siguientes temas:
+En este apartado se desarrollaron los temas introductorios para el campo de Programación Competitiva.
 
-1. Ejercicios de Demostración
-   1.1. [Número de casos](Ch01_IOTypes/1.Num_cases.cpp)
-   1.2. [Caso cero](Ch01_IOTypes/2.Zero_case.cpp)
-   1.3. [Caso EOF](Ch01_IOTypes/3.EOF_case.cpp)
-   1.4. [Caso de espacios en blanco](Ch01_IOTypes/4.Blank_case.cpp)
-   1.5. [Caso de espacios en blanco 2](Ch01_IOTypes/5.Blank_case_2.cpp)
+- Se consideraron los siguientes ejercicios: 
+    1. [Número de casos](Ch01_IOTypes/1.Num_cases.cpp)
+    2. [Caso cero](Ch01_IOTypes/2.Zero_case.cpp)
+    3. [Caso EOF](Ch01_IOTypes/3.EOF_case.cpp)
+    4. [Caso de espacios en blanco](Ch01_IOTypes/4.Blank_case.cpp)
+    5. [Caso de espacios en blanco 2](Ch01_IOTypes/5.Blank_case_2.cpp)
 
 ## 2. Aritmética Modular<a name="session2"></a>
 
