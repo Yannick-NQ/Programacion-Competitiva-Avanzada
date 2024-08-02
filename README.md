@@ -82,6 +82,7 @@ Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
 Este apartado incluye ina practica de tres ejercicios hechos durante las clases.
 
 - Los ejercicios fueron:
+
   **Enunciado**: Escriba una funcion que tome un arreglo de enteros y un numero "k", y determine si esxisten los numeros en el arreglo cuya suma sea igual a k
 
   1. [Ejercicio 1: Suma de Pareja de una arreglo = K](S06_Practica_PCA/Ejercicio_1.cpp)
@@ -99,6 +100,7 @@ Este apartado incluye ina practica de tres ejercicios hechos durante las clases.
 Este apartado cubre los ejercicios desarrollados en clase
 
 - Los ejercicios fueron:
+
   **Enunciado**: Sumar dos numeros a + b
 
   1. [Ejercicio 1: Sumar 2 Números](S07_Ejercicios_PCA/Ejercicio_1.cpp)
@@ -123,7 +125,8 @@ Este apartado cubre los ejercicios desarrollados en clase
 
 Este apartado cubre la implementación con JavaScript de la Autosugerencia con Arbol Trie
 
-- Archivos que contempla
+- Archivos que contempla:
+
   1. [Script del Arbol Trie](S08_Arbol_Trie/script.js)
   2. [Index del Arbol Trie](S08_Arbol_Trie/index.html)
 
@@ -132,6 +135,7 @@ Este apartado cubre la implementación con JavaScript de la Autosugerencia con A
 Este apartado es para el ejercicio del maximo producto de 3 Números
 
 - Se desarrollo:
+
   **Enunciado**: dado un arreglo de enteros hallar el producto máximo
   de 3 numero diferentes
 
