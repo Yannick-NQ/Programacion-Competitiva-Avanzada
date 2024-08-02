@@ -15,11 +15,8 @@ Recopilación de Ejercicios Desarrollados en el Curso de Programación Competiti
 **UNIDAD 2**
 
 6. [Árboles](#session6)
-
 7. [Algoritmos en grafos](#session7)
-
 8. [Grafos dirigidos](#session8)
-
 9. [Programación Dinámica](#session9)
 
 ## 1. Características de C++: entrada y salida<a name="session1"></a>
