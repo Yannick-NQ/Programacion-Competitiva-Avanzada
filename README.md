@@ -95,6 +95,8 @@ Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
 
 ## 9. Programación Dinámica<a name="session9"></a>
 
-Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
+Este apartado cubre los algoritmos de búsqueda.
 
-9.1. [Algoritmos de Búsqueda](S09_Programacion_Dinamica)
+- Los temas incluyen:
+  1. [Problema de la Mochila en C++](S09_Programacion_Dinamica/Problema_de_la_Mochila/CPP/main.cpp)
+  2. [Problema de la Mochila en HTML, CSS, JavaScript](S09_Programacion_Dinamica/Problema_de_la_Mochila/JavaScript/)
