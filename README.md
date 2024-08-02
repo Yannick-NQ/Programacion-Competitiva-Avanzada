@@ -9,9 +9,9 @@ Recopilación de Ejercicios Desarrollados en el Curso de Programación Competiti
 
 ## Introducción a la Programación Competitiva<a name="session1"></a>
 
-En este apartado se desarrollo los temas introductorios para el campo de Programación Competitiva. Se considerarón los siguientes temas:
+En este apartado se desarrollaron los temas introductorios para el campo de Programación Competitiva. Se consideraron los siguientes temas:
 
-1.1. [Características de C++: entrada y salida](#sub1session1)
+1.1. [Características de C++: entrada y salida](Intro_Programacion_Competitiva/Ch01_IOTypes/README.md#sub1session1)
 
 ## Segundo apartado<a name="id2"></a>
 
