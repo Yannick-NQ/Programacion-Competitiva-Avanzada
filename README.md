@@ -23,18 +23,24 @@ Recopilación de Ejercicios Desarrollados en el Curso de Programación Competiti
 
 En este apartado se desarrollaron los temas introductorios para el campo de Programación Competitiva.
 
-- Se consideraron los siguientes ejercicios: 
-    1. [Número de casos](Ch01_IOTypes/1.Num_cases.cpp)
-    2. [Caso cero](Ch01_IOTypes/2.Zero_case.cpp)
-    3. [Caso EOF](Ch01_IOTypes/3.EOF_case.cpp)
-    4. [Caso de espacios en blanco](Ch01_IOTypes/4.Blank_case.cpp)
-    5. [Caso de espacios en blanco 2](Ch01_IOTypes/5.Blank_case_2.cpp)
+- Se consideraron los siguientes ejercicios:
+  1. [Número de casos](Ch01_IOTypes/1.Num_cases.cpp)
+  2. [Caso cero](Ch01_IOTypes/2.Zero_case.cpp)
+  3. [Caso EOF](Ch01_IOTypes/3.EOF_case.cpp)
+  4. [Caso de espacios en blanco](Ch01_IOTypes/4.Blank_case.cpp)
+  5. [Caso de espacios en blanco 2](Ch01_IOTypes/5.Blank_case_2.cpp)
 
 ## 2. Aritmética Modular<a name="session2"></a>
 
-Este apartado cubre la aritmética modular. Los temas incluyen:
+Este apartado cubre la aritmética modular.
 
-2.1. [Aritmética Modular](CH02_ModularArithmetic/)
+- Los temas incluyen:
+  1. [Operaciones con Mod](CH02_ModularArithmetic/ModOperations.cpp)
+  2. [Combinatoria modular](CH02_ModularArithmetic/ModCombinatory.cpp)
+  3. [Polinomios modulares](CH02_ModularArithmetic/ModPoli.cpp)
+  4. [Hashing modular](CH02_ModularArithmetic/ModHashing.cpp`)
+  5. [Probabilidad modular](CH02_ModularArithmetic/ModProbability.cpp)
+  6. [Congruencia lineal modular](CH02_ModularArithmetic/ModLinearCongruency.cpp)
 
 ## 3. Algoritmos de Cadenas<a name="session3"></a>
 
