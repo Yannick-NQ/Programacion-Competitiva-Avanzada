@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Autosugerencia con Arbol Trie</title>
+  <style>
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .input-container {
+      position: relative;
+    }
+
+    .input-container input {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+    }
+
+    .suggestions {
+      position: absolute;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 10px;
+      list-style-type: none;
+      width: 100%;
+      z-index: 1;
+    }
+
+    .suggestions li {
+      padding: 5px;
+      cursor: pointer;
+    }
+
+    .suggestions li:hover {
+      background-color: #f1f1f1;
+    }
+
+    .autocomplete-active {
+        background-color: #f1f1f1;
+        cursor: pointer;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Autosugerencia con Arbol Trie</h1>
+    <div class="input-container">
+      <textarea id="input-textarea" rows="5" cols="50"></textarea>
+      <ul class="suggestions" id="suggestions-list"></ul>
+
+    </div>
+  </div>
+
+  <script src="/script.js">
+  </script>
+</body>
+</html> 
