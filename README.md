@@ -15,7 +15,7 @@ En este apartado se desarrollaron los temas introductorios para el campo de Prog
 
 - Se examinaron diferentes tipos de entradas y salidas que son usados comunmente en los concursos de Programación Competitiva.
 
-  1.2. [Aritmética Modular](Intro_Programacion_Competitiva/Ch02_ModularArithmetic/)
+1.2. [Aritmética Modular](Intro_Programacion_Competitiva/Ch02_ModularArithmetic/)
 
 - Se examinaron la aritmetica y algebra modular.
 
