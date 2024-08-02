@@ -15,6 +15,12 @@ En este apartado se desarrollaron los temas introductorios para el campo de Prog
 
 1.2. [Aritmética Modular](Intro_Programacion_Competitiva/CH02_ModularArithmetic/)
 
+1.3. [Algoritmos de Cadenas](Intro_Programacion_Competitiva/Ch03_StringsAlgorithms/)
+
+1.4. [Algoritmos de Ordenamiento](Intro_Programacion_Competitiva/CH04_SortingAlgorithms/)
+
+1.5. [Algoritmos de Búsqueda](Intro_Programacion_Competitiva/CH05_Searching/)
+
 ## Segundo apartado<a name="id2"></a>
 
 Texto del segundo apartado
