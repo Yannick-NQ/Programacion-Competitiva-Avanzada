@@ -4,23 +4,38 @@ Recopilación de Ejercicios Desarrollados en el Curso de Programación Competiti
 
 **Índice**
 
-1. [Introducción a la Programación Competitiva](#session1)
-2. [Segundo apartado](#id2)
+1. [Características de C++: entrada y salida](#session1)
+2. [Aritmética Modular](#session2)
+3. [Algoritmos de Cadenas](#session3)
+4. [Algoritmos de Ordenamiento](#session4)
+5. [Algoritmos de Búsqueda](#session5)
 
-## Introducción a la Programación Competitiva<a name="session1"></a>
+## 1. Características de C++: entrada y salida<a name="session1"></a>
 
 En este apartado se desarrollaron los temas introductorios para el campo de Programación Competitiva. Se consideraron los siguientes temas:
 
-1.1. [Características de C++: entrada y salida](Intro_Programacion_Competitiva/Ch01_IOTypes/)
+1. [Características de C++: entrada y salida](Ch01_IOTypes/)
 
-1.2. [Aritmética Modular](Intro_Programacion_Competitiva/CH02_ModularArithmetic/)
+## 2. Aritmética Modular<a name="session2"></a>
 
-1.3. [Algoritmos de Cadenas](Intro_Programacion_Competitiva/Ch03_StringsAlgorithms/)
+Este apartado cubre la aritmética modular. Los temas incluyen:
 
-1.4. [Algoritmos de Ordenamiento](Intro_Programacion_Competitiva/CH04_SortingAlgorithms/)
+2. [Aritmética Modular](CH02_ModularArithmetic/)
 
-1.5. [Algoritmos de Búsqueda](Intro_Programacion_Competitiva/CH05_Searching/)
+## Algoritmos de Cadenas<a name="session3"></a>
 
-## Segundo apartado<a name="id2"></a>
+Este apartado cubre los algoritmos de cadenas. Los temas incluyen:
 
-Texto del segundo apartado
+3. [Algoritmos de Cadenas](Ch03_StringsAlgorithms/)
+
+## Algoritmos de Ordenamiento<a name="session4"></a>
+
+Este apartado cubre los algoritmos de ordenamiento.
+
+4. [Algoritmos de Ordenamiento](CH04_SortingAlgorithms)
+
+## Algoritmos de Búsqueda<a name="session5"></a>
+
+Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
+
+5.1. [Algoritmos de Búsqueda](CH05_Searching)
