@@ -14,10 +14,12 @@ Recopilación de Ejercicios Desarrollados en el Curso de Programación Competiti
 
 **UNIDAD 2**
 
-6. [Árboles](#session6)
-7. [Algoritmos en grafos](#session7)
-8. [Grafos dirigidos](#session8)
-9. [Programación Dinámica](#session9)
+6. [Práctica PCA](#session6)
+7. [Ejercicios PCA](#session7)
+8. [Autosugerencia con Arbol Trie](#session8)
+9. [Maximo Producto 3 Números](#session9)
+10. [Algoritmo de Khan](#session10)
+11. [Problema de la Mochila](#session11)
 
 ## 1. Características de C++: entrada y salida<a name="session1"></a>
 
@@ -75,28 +77,80 @@ Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
   2. [DFS](S05_Busqueda/2.DFS.cpp)
   3. [Binary Search](S05_Busqueda/3.Binary.cpp)
 
-## 6. Árboles<a name="session6"></a>
+## 6. Práctica PCA<a name="session6"></a>
 
-Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
+Este apartado incluye ina practica de tres ejercicios hechos durante las clases.
 
-6.1. [Árboles](S06_Arboles)
+- Los ejercicios fueron:
+  **Enunciado**: Escriba una funcion que tome un arreglo de enteros y un numero "k", y determine si esxisten los numeros en el arreglo cuya suma sea igual a k
 
-## 7. Algoritmos en grafos<a name="session7"></a>
+  1. [Ejercicio 1: Suma de Pareja de una arreglo = K](S06_Practica_PCA/Ejercicio_1.cpp)
 
-Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
+  **Enunciado**: Dado una matriz cuadrada de nxn, escribe una funcion que rote la matriz 90 grados en sentido horario y devuelve la matriz
 
-7.1. [Algoritmos en grafos](S07_Algoritmos_en_grafos)
+  2. [Ejercicio 2: Rotar Matriz 90 grados](S06_Practica_PCA/Ejercicio_2.cpp)
 
-## 8. Algoritmos de Búsqueda<a name="session8"></a>
+  **Enunciado**: Dado un conjunto, genere todos los subconjuntos posibles del conjunto.
 
-Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
+  3. [Ejercicio 3: Generación de Subconjuntos](S06_Practica_PCA/Ejercicio_3.cpp)
 
-8.1. [Grafos dirigidos](S08_Grafos_Dirigidos)
+## 7. Ejercicios PCA <a name="session7"></a>
 
-## 9. Programación Dinámica<a name="session9"></a>
+Este apartado cubre los ejercicios desarrollados en clase
 
-Este apartado cubre los algoritmos de búsqueda.
+- Los ejercicios fueron:
+  **Enunciado**: Sumar dos numeros a + b
 
-- Los temas incluyen:
-  1. [Problema de la Mochila en C++](S09_Programacion_Dinamica/Problema_de_la_Mochila/CPP/main.cpp)
-  2. [Problema de la Mochila en HTML, CSS, JavaScript](S09_Programacion_Dinamica/Problema_de_la_Mochila/JavaScript/)
+  1. [Ejercicio 1: Sumar 2 Números](S07_Ejercicios_PCA/Ejercicio_1.cpp)
+
+  **Enunciado**: Dado tres numeros enteros, encuentra el mayor
+
+  2. [Ejercicio 2: Mayor de 3 Números](S07_Ejercicios_PCA/Ejercicio_2.cpp)
+
+  **Enunciado**: Dado un numero determina si es par o impar
+
+  3. [Ejercicio 3: Par o Impar](S07_Ejercicios_PCA/Ejercicio_3.cpp)
+
+  **Enunciado**: Dado un numero determina su factorial
+
+  4. [Ejercicio 4: Factorial de un Número](S07_Ejercicios_PCA/Ejercicio_4.cpp)
+
+  **Enunciado**: Dado un numero mostrar la suma de sus digitos
+
+  5. [Ejercicio 5: Suma de Digitos de un Número](S07_Ejercicios_PCA/Ejercicio_5.cpp)
+
+## 8. Autosugerencia con Arbol Trie<a name="session8"></a>
+
+Este apartado cubre la implementación con JavaScript de la Autosugerencia con Arbol Trie
+
+- Archivos que contempla
+  1. [Script del Arbol Trie](S08_Arbol_Trie/script.js)
+  2. [Index del Arbol Trie](S08_Arbol_Trie/index.html)
+
+## 9. Maximo Producto 3 Números<a name="session9"></a>
+
+Este apartado es para el ejercicio del maximo producto de 3 Números
+
+- Se desarrollo:
+  **Enunciado**: dado un arreglo de enteros hallar el producto máximo
+  de 3 numero diferentes
+
+  1. [Ejercicio: Máximo producto de 3 Números](S09_Maximo_Producto_3_Numeros/main.cpp)
+
+## 10. Algoritmo de Khan<a name="session10"></a>
+
+Este apartado es para el algoritmo de Khan
+
+- Se desarrollo:
+
+  1. [Algoritmo de Khan](S10_Algoritmo_de_Khan/main.cpp)
+
+## 10. Problema de la Mochila<a name="session11"></a>
+
+Este apartado es para la solución del problema de la mochila, en C++ y de forma visual con Javascript, Html, css.
+
+- Se desarrollo:
+
+  1. [SOLUCIÓN C++: Problema de Mochila](S11_Problema_de_la_Mochila/CPP/main.cpp)
+
+  2. [SOLUCIÓN JAVASCRIPT: Problema de Mochila](S11_Problema_de_la_Mochila/JavaScript/)
