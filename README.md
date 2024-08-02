@@ -44,21 +44,36 @@ Este apartado cubre la aritmética modular.
 
 ## 3. Algoritmos de Cadenas<a name="session3"></a>
 
-Este apartado cubre los algoritmos de cadenas. Los temas incluyen:
+Este apartado cubre los algoritmos de cadenas.
 
-3.1. [Algoritmos de Cadenas](Ch03_StringsAlgorithms/)
+- Los temas incluyen:
+  1. [Aho-Corasick](Ch03_StringsAlgorithms/1.AhoCorasick/main.cpp)
+  2. [KMP](Ch03_StringsAlgorithms/2.KMP/main.cpp)
+  3. [Substring](Ch03_StringsAlgorithms/3.Substring/main.cpp)
+  4. [IndexOf LastIndexOf](Ch03_StringsAlgorithms/IndexOf_LastIndexOf/main.cpp)
 
 ## 4. Algoritmos de Ordenamiento<a name="session4"></a>
 
 Este apartado cubre los algoritmos de ordenamiento.
 
-4.1. [Algoritmos de Ordenamiento](CH04_SortingAlgorithms)
+- Los temas incluyen:
+  1. [Insertion Sort](CH04_SortingAlgorithms/1.InsertionSort.cpp)
+  2. [Merge Sort](CH04_SortingAlgorithms/1.MergeSort.cpp)
+  3. [Selection Sort](CH04_SortingAlgorithms/2.SelectionSort.cpp)
+  4. [Quick Sort](CH04_SortingAlgorithms/3.QuickSort.cpp)
+  5. [Heap Sort](CH04_SortingAlgorithms/4.HeapSort.cpp)
+  6. [Radix Sort](CH04_SortingAlgorithms/5.RadixSort.cpp)
+  7. [Bucket Sort](CH04_SortingAlgorithms/6.BucketSort.cpp)
+  8. [Counting Sort](CH04_SortingAlgorithms/7.CountingSort.cpp)
 
 ## 5. Algoritmos de Búsqueda<a name="session5"></a>
 
 Este apartado cubre los algoritmos de búsqueda. Los temas incluyen:
 
-5.1. [Algoritmos de Búsqueda](CH05_Searching)
+- Los temas incluyen:
+  1. [BFS](CH05_Searching/1.BFS.cpp)
+  2. [DFS](CH05_Searching/2.DFS.cpp)
+  3. [Binary Search](CH05_Searching/3.Binary.cpp)
 
 ## 6. Árboles<a name="session6"></a>
 
